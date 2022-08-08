@@ -1,9 +1,15 @@
 /**
 Style sheet added
 */
-#image{
-    max-width: 100%;
-    height: auto;
-    position: relative;
+#image {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
 
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
 }
